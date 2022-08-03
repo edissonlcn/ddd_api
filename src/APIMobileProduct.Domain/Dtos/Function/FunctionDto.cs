@@ -1,0 +1,11 @@
+using System;
+
+namespace APIMobileProduct.Domain.Dtos.Function
+{
+    public class FunctionDto
+    {
+        public Guid Id { get; set; }
+        public string Nome { get; set; }
+        public string Codigo { get; set; }
+    }
+}

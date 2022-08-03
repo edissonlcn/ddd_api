@@ -1,0 +1,7 @@
+D:\zukk\CTC\backend\publish\Domain.dll
+D:\zukk\CTC\backend\publish\Domain.deps.json
+D:\zukk\CTC\backend\publish\Domain.pdb
+D:\zukk\CTC\backend\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zukk\CTC\backend\publish\Microsoft.IdentityModel.Logging.dll
+D:\zukk\CTC\backend\publish\Microsoft.IdentityModel.Tokens.dll
+D:\zukk\CTC\backend\publish\System.IdentityModel.Tokens.Jwt.dll
